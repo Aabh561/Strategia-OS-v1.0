@@ -1,0 +1,10 @@
+pandas
+matplotlib
+streamlit
+langchain
+ollama
+faiss-cpu
+PyMuPDF
+fastapi
+uvicorn
+pytest

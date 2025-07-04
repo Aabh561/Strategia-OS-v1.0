@@ -1,0 +1,7 @@
+ticket_id,issue,response_time,sentiment
+1,Login failure,5,Negative
+2,Delayed refund,7,Negative
+3,Account locked,3,Neutral
+4,New feature request,2,Positive
+5,Bug in mobile app,6,Negative
+
