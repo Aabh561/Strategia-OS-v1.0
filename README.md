@@ -1,6 +1,6 @@
 # 🧠 Strategia OS – Local AI Operating System for Enterprises
 
-> ⚙️ An offline-ready, modular AI system that simulates executive-level strategy, analyzes support operations, and answers complex policy questions — all using private, explainable LLM agents.
+> ⚙️ An offline-ready, modular AI system that simulates executive-level strategy, analyzes support operations, and answers complex policy questions — all using private, explainable LLM agents
 
 ---
 
